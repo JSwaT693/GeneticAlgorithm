@@ -57,11 +57,6 @@ All parameters are defined in an external configuration file:
 - Logging of performance and results
 - Custom random number utilities
 
-## Technologies
-- C++
-- CMake
-- CLion
-
 ## Output
 The algorithm returns:
 - best path found
